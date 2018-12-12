@@ -1,0 +1,6 @@
+C:\Dev\katas\GroupKataMocking\GroupKataMocking\bin\Debug\GroupKataMocking.dll
+C:\Dev\katas\GroupKataMocking\GroupKataMocking\bin\Debug\GroupKataMocking.pdb
+C:\Dev\katas\GroupKataMocking\GroupKataMocking\obj\Debug\GroupKataMocking.csprojAssemblyReference.cache
+C:\Dev\katas\GroupKataMocking\GroupKataMocking\obj\Debug\GroupKataMocking.csproj.CoreCompileInputs.cache
+C:\Dev\katas\GroupKataMocking\GroupKataMocking\obj\Debug\GroupKataMocking.dll
+C:\Dev\katas\GroupKataMocking\GroupKataMocking\obj\Debug\GroupKataMocking.pdb
